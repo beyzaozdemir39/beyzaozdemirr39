@@ -1,6 +1,10 @@
 # profileupdate
 <h1 align="center">Hi, I'm Beyza</h1>
-<h3 align="center">computer engineering student</h3>
+<h3 align="center">Computer Engineering Student at Trakya University</h3>
+
+- 🔭 I’m currently working on **Kotlin**
+
+- 📫 How to reach me **beyzaozdemirr39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
