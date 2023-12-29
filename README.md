@@ -1,4 +1,4 @@
-# profileupdate
+
 <h1 align="center">Hi, I'm Beyza</h1>
 <h3 align="center">Computer Engineering Student at Trakya University</h3>
 
